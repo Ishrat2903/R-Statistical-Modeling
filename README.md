@@ -1,12 +1,12 @@
 # R-Statistical-Modeling
-# Automobile Information Analysis
+### Automobile Information Analysis
 
-# Project Overview
+### Project Overview
 This project is an in-depth analysis of factors influencing the fuel efficiency (MPG - Miles Per Gallon) of automobiles. 
 It explores various variables, including the number of cylinders, displacement, horsepower, and weight, to understand their impact on MPG. 
 By conducting hypothesis testing and data visualization, this analysis provides valuable insights for car manufacturers, consumers, and policymakers interested in improving fuel efficiency.
 
-# Project Highlights
+### Project Highlights
 - Hypothesis Testing: The project thoroughly examines hypotheses concerning the impact of significant variables on MPG, offering statistical data to support or reject these assumptions.
 
 - Data exploration: A detailed analysis of the dataset's structure, identification of any missing values, and production of summary statistics.
@@ -16,7 +16,7 @@ By conducting hypothesis testing and data visualization, this analysis provides 
 - Insights and Implications: The project ends with a discussion of the findings, their limits, and possible future work, providing stakeholders with useful insights.
 
 
-# Project Organization
+### Project Organization
 The following sections make up the project:
 
 1. Problem: A description of the issue under discussion and the study's goals.
